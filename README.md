@@ -171,7 +171,7 @@ The checker creates organized result files in the following structure:
 1. Configure your settings in settings.yaml
 2. Add your accounts to accounts.txt
 3. If using proxies, add them to proxies.txt
-4. Run the checker:
+4. Run the checker
    ```bash
    python run.py
    ```
